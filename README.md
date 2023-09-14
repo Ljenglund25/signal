@@ -22,5 +22,3 @@ The following restrictions are given so that you can concentrate on composing wi
 ## Contribution
 
 Any kind of contribution is welcome.
-
-(new update & website coming soon)
